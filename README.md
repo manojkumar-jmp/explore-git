@@ -61,3 +61,9 @@ Explore git and GitHub
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+### Common comands
+
+- git fetch -p
+- git pull --rebase origin main
+- git rebase -i HEAD~2
