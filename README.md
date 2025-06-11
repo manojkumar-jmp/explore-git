@@ -17,4 +17,4 @@
 15. Aliases & Shortcuts
 16. Useful Tips & Tricks
 17. Advanced Topics
-18. Command Summary
+18. [Command Summary](docs/18-CommandSummary.md)
