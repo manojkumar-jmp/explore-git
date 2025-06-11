@@ -1,0 +1,3 @@
+## Ignoring Files
+
+- .gitignore
