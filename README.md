@@ -1,3 +1,5 @@
+📘 See [DISCLAIMER](https://github.com/manojkumar-jmp/.github/blob/main/DISCLAIMER.md) for legal and usage disclaimers related to this repository.
+
 ## Covering essential Git commands for professional developers 
 
 A comprehensive tutorial series covering the most essential and practical Git commands every professional developer should know. Includes beginner to advanced workflows, real-world examples, and tips for day-to-day productivity.
